@@ -1,2 +1,2 @@
 #web
-execice sur Github et git
+execice sur Github et gi
